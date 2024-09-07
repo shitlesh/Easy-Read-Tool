@@ -1,1 +1,1 @@
-# Easy-Read-Tool
+# Easy Read Tool
