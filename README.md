@@ -56,9 +56,4 @@ run streamlit app.py
 
 ## Demo Video
 
-Here is a demo video of the Easy Read Application:
-
-<video width="600" controls>
-  <source src="demo/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Download and watch the demo video](demo/Demo.mp4)
