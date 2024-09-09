@@ -19,6 +19,7 @@
   <a href="#about-the-project">About The Project</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#demo-video">Demo Video</a> •
+  <a href="#blame-me">Blame Me</a> •
 </p>  
 
 <p align="center">
@@ -57,3 +58,8 @@ run streamlit app.py
 ## Demo Video
 
 [Download and watch the demo video](demo/Demo.mp4)
+
+## Blame Me
+
+If stepped into any issue while exploring this repo, please open an issue here :  [New Mess](https://github.com/shitlesh/Easy-Read-Tool/issues/new)
+
