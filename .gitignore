@@ -3,3 +3,4 @@ best_text_summ_model
 best_text_summ_token
 diffusers
 .venv/
+demo/
