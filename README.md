@@ -42,7 +42,10 @@ git clone https://github.com/shitlesh/Easy-Read-Tool.git
 
 Follow below steps to run this AI Tool successfully and get the intended result:
 
-1. Install all required libraries listed in requirements.txt file
+1. Install all required libraries listed in requirements.txt file. Use below command in your terminal:
+```py
+pip install -r requirements. txt 
+```
 2. Import Diffusers using below command on terminal:
 ```py
 git clone https://github.com/huggingface/diffusers.git
